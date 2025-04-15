@@ -1,4 +1,4 @@
-# 🔊 Fourier Series Signal Analysis using MATLAB GUI
+# Fourier Series Signal Analysis using MATLAB GUI
 
 This project is an interactive **MATLAB GUI application** built for educational and analytical purposes. It allows users to **generate and analyze signals** (Rectangular, Triangular, and Chirp) with user-defined parameters like amplitude, duty cycle, and time shift. The tool computes **Fourier series coefficients** and visualizes both **time-domain waveforms** and **frequency-domain representations**.
 
